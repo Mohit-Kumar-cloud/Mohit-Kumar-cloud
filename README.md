@@ -115,7 +115,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480"/>
-  <figcaption>  Ignore them it's their daily routine sigh!</figcaption>
+  <figcaption align="center"> Ignore them it's their daily routine sigh!</figcaption>
 </p>
 
 </details>
