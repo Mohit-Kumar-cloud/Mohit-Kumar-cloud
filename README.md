@@ -24,7 +24,7 @@
 - I am a Competetive/Speed Programmer
 - [My Resume](https://drive.google.com/file/d/1-6neN2oFDkc07jCx3rgINioAy1e83uVV/view?usp=sharing)
 
-
+</br>
 
 ---
 </br>
