@@ -26,7 +26,8 @@
 
 
 </br>
-</br>
+---
+
 <details>
 <summary><h3>⚙️ Languages and Tools: </h3></summary>
 
@@ -119,6 +120,7 @@
 </details>
 
 
+---
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
