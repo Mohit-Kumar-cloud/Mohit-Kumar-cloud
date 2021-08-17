@@ -3,7 +3,7 @@
 </br>
 <p>I am Final Year Computer Science Student at FAST-NUCES Karachi.</p>
 
-###You can find me on
+### You can find me on
 <p>
     <a href="https://www.linkedin.com/in/mohit-kumar1160/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mohit--kumar1160-linkdein-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mohit-kumar1160/" alt="LinkedIn Badge"></a> 
     <a href="https://www.kaggle.com/mohitkumar1160" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mohitkumar1160-kaggle-blue?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://www.kaggle.com/mohitkumar1160" alt="Kaggle Badge"></a> 
