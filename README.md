@@ -28,7 +28,7 @@
 </br>
 </br>
 <details>
-<summary><h3 ⚙️ Languages and Tools: </h3></summary>
+<summary><h3>⚙️ Languages and Tools: </h3></summary>
 
 <table>
     <tbody>
