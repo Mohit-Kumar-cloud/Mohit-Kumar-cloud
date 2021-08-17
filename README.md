@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Mohit-Kumar-cloud/Mohit-Kumar-cloud/blob/main/developer.gif" height="175px"/></a>
+<p align="center"><a href="#"><img width="70%" height="auto" src="https://github.com/Mohit-Kumar-cloud/Mohit-Kumar-cloud/blob/main/developer.gif" height="175px"/></a></p>
 <h3 align="center">Hey there <img src="https://github.com/Mohit-Kumar-cloud/Mohit-Kumar-cloud/blob/main/Hi.gif" width="29px">, I'm Mohit Kumar </h3>
 </br>
 <p>I am Final Year Computer Science Student at FAST-NUCES Karachi.</p>
