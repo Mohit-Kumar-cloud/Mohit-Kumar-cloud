@@ -117,14 +117,12 @@
 </p>
 
 </details>
----
 
 
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
----
 <details>
   <summary><h3>📈 My GitHub Profile Stats</h3> </br> PS:Don't Check I am not that consistent on github :P </summary>
   <br/>
