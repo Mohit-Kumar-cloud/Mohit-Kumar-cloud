@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Mohit-Kumar-cloud/Mohit-Kumar-cloud/blob/main/developer.gif" height="175px"/></a>
+<a href="#"><img width="500" height="400" src="https://github.com/Mohit-Kumar-cloud/Mohit-Kumar-cloud/blob/main/developer.gif" height="175px"/></a>
 <h3 align="center">Hey there <img src="https://github.com/Mohit-Kumar-cloud/Mohit-Kumar-cloud/blob/main/Hi.gif" width="29px">, I'm Mohit Kumar </h3>
 </br>
 <p>I am Final Year Computer Science Student at FAST-NUCES Karachi.</p>
@@ -47,7 +47,7 @@
             <td><a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
             </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
+            <td><a href="#"><img alt="C" title="C" height="28px"
                         src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>
             </td>
         </tr>
@@ -56,11 +56,11 @@
                         src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a></td>
             <td><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
+            <td><a href="#"><img alt="MongoDB" title="MongoDB" height="28px"
                         src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
+            <td><a href="#"><img alt="React" title="React" height="28px"
                         src="https://img.shields.io/badge/-React-black?style=flat&logo=react" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
+            <td><a href="#"><img alt="Postman" title="Postman" height="28px"
                         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a></td>
         </tr>
         <tr>
@@ -74,14 +74,14 @@
                         src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a></td>
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
+            <td><a href="#"><img alt="Linux" title="Linux" height="28px"
                         src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a></td>
         </tr>
         <tr>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+            <td><a href="#"><img alt="Git" title="Git" height="28px"
                         src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" /></a>
             </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
@@ -94,19 +94,19 @@
             </td>
         </tr>
           <tr>
-            <td><a href="#"><img alt="NPM" title="NPM" height="28px"
+            <td><a href="#"><img alt="open-cv" title="Open-cv" height="28px"
                         src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="NPM" title="NPM" height="28px"
+            <td><a href="#"><img alt="Numpy" title="Numpy" height="28px"
                         src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="NPM" title="NPM" height="28px"
+            <td><a href="#"><img alt="pandas" title="pandas" height="28px"
                         src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
             </td>
-            <td><a href="#"><img alt="NPM" title="NPM" height="28px"
+            <td><a href="#"><img alt="TensorFlow" title="TensorFlow" height="28px"
                         src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
             </td>
-             <td><a href="#"><img alt="NPM" title="NPM" height="28px"
+             <td><a href="#"><img alt="Keras" title="Keras" height="28px"
                         src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
             </td>
         </tr>
