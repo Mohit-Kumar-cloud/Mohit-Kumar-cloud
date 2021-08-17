@@ -27,10 +27,8 @@
 
 </br>
 </br>
----
----
 <details>
-<summary><h3> 👨‍💻 Languages and Tools: </h3></summary>
+<summary><h3 ⚙️ Languages and Tools: </h3></summary>
 
 <table>
     <tbody>
@@ -138,8 +136,6 @@
 </br>
 <p align="center"> Ah! You checked I told you I am not that consistent here!! but Thanks for visiting my profile :-)</p>
 </details>
----
----
 <!--
 **Mohit-Kumar-cloud/Mohit-Kumar-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
