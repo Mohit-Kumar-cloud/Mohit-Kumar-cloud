@@ -22,7 +22,7 @@
 - Aside from academics I love playing badminton 🏸
 - I chill with music 🎧 and watch anime 👒 during my part time.
 - I am a Competetive/Speed Programmer
-- [My Resume](https://drive.google.com/file/d/1-6neN2oFDkc07jCx3rgINioAy1e83uVV/view?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/1R2p4izi_i6-aHm2oHyLmznYJUfV8bNt7/view?usp=sharing)
 
 </br>
 
